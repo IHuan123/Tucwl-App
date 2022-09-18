@@ -1,0 +1,38 @@
+
+
+.flex{
+    display: flex;
+}
+.col{
+    flex-direction: column;
+}
+.row{
+    flex-direction: row;
+}
+.white-bg-card{
+	width:710rpx;
+	background-color: #fff;
+	/* #ifndef APP-NVUE */
+	margin: 20rpx auto;
+	box-sizing: border-box;
+	/* #endif */
+	/* #ifdef APP-NVUE */
+	margin: 20rpx;
+	/* #endif */
+	padding:20rpx;
+	border-radius: 8px;
+}
+.line10px{
+	width:750rpx;
+	height:10px;
+	background-color: #f5f5f5;
+}
+.loadmore{
+	/* #ifndef APP-NVUE */
+	width: 100%;
+	/* #endif */
+	/* #ifdef APP-NVUE */
+	flex: 1;
+	/* #endif */
+	padding:20rpx 0;
+}

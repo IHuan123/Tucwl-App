@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">嘿咔</string>
+<!--    // Add Code-->
+    <string name="game_view_content_description">Game view</string>
+<!--    // End-->
+</resources>
