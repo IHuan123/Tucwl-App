@@ -24,3 +24,4 @@ docs/
 app/build
 UnityProject/androidBuild/unityLibrary/build
 build/
+app/release/
